@@ -12,6 +12,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - Sort margin / padding around elements - add padding around text on mobile/tablet to allow it to breathe
 - Implement codepen button
 - fix nav on mobile/tablet
-- fill in about me
-- add "My Stack" section - in header (grid cols 4)
 - add link to codepen
