@@ -17,7 +17,7 @@
         Contact <span class="text-blue-500 font-semibold">me</span>
       </h3>
       <p class="text-xl text-center mt-4 mb-4 text-slate-400">
-        Intrested in working with me?
+        Interested in working with me?
         <br />
         Feel free to get in touch through any of the methods below.
       </p>

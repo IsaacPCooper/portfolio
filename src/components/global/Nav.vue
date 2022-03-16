@@ -1,9 +1,17 @@
 <template>
-  <nav class="sm:container sm:mx-auto pt-5 pb-5">
+
+<nav class="px-4 py-4 flex items-center justify-center space-x-12 text-xs sm:text-sm"> 
+ <a class="text-white hover:border-b hover:border-blue-300" href="#myStack">My Stack </a>
+          <a class="text-white hover:border-b hover:border-blue-300" href="#projects">My Projects </a>
+          <a class="text-white hover:border-b hover:border-blue-300" href="#bio">Bio </a>
+          <a class="text-white hover:border-b hover:border-blue-300" href="#contact">Work with me!</a>
+</nav>
+  <!-- <nav class="sm:container sm:mx-auto pt-5 pb-5">
     <div class="max-w-6xl mx-auto px-4">
       <div class="flex justify-center">
         <div class="flex space-x-7 justify-center">
           <div class="hidden md:flex items-center space-x-20">
+            <a class="text-white hover:border-b hover:border-blue-300" href="#myStack">My Stack </a>
           <a class="text-white hover:border-b hover:border-blue-300" href="#projects">My Projects </a>
           <a class="text-white hover:border-b hover:border-blue-300" href="#bio">Bio </a>
           <a class="text-white hover:border-b hover:border-blue-300" href="#contact">Work with me!</a>
@@ -17,6 +25,5 @@
         </div>
       </div>
     </div>
-    
-  </nav>
+  </nav> -->
 </template>

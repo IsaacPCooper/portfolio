@@ -40,7 +40,7 @@ import ProjectBlock from '../ProjectBlock.vue';
             projectName="This Portfolio"
             projectType="SPA"
             liveLink="#"
-            sourceLink="#"
+            sourceLink="https://github.com/IsaacPCooper/portfolio"
             />
 
 
