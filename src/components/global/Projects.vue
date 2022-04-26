@@ -28,11 +28,11 @@ import ProjectBlock from '../ProjectBlock.vue';
         <div class="grid grid-cols-1 md:grid-cols-2 sm:gap-10">
 
             <ProjectBlock 
-            projectImg="/img/vuejs-quiz-app.png"
-            projectName="VueJs Quiz"
-            projectType="Web App"
-            liveLink="https://vue-js-quiz.herokuapp.com/"
-            sourceLink="https://github.com/IsaacPCooper/Vue-Js-Quiz-App"
+            projectImg="/img/currency-convertor.png"
+            projectName="VueJs Currency Convertor"
+            projectType="Vue App w/ API Data"
+            liveLink="https://comfy-syrniki-b96067.netlify.app/"
+            sourceLink="https://github.com/IsaacPCooper/VueJsCurrencyConvertor"
             />
 
              <ProjectBlock 
