@@ -34,6 +34,7 @@
           <!--LinkedIn -->
           <a
             href="https://www.linkedin.com/in/isaac-cooper-998845141/"
+            target="_blank"
             class="
               text-white
               bg-blue-500
@@ -65,6 +66,7 @@
           <!-- Twitter -->
           <a
             href=""
+            target="_blank"
             class="
               text-white
               bg-blue-500
@@ -96,6 +98,7 @@
           <!-- Email -->
           <a
             href="mailto:jordan.p.c.austin@gmail.com"
+            target="_blank"
             class="
               text-white
               bg-blue-500
