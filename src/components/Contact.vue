@@ -33,7 +33,7 @@
         >
           <!--LinkedIn -->
           <a
-            href=""
+            href="https://www.linkedin.com/in/isaac-cooper-998845141/"
             class="
               text-white
               bg-blue-500
@@ -95,7 +95,7 @@
           </a>
           <!-- Email -->
           <a
-            href=""
+            href="mailto:jordan.p.c.austin@gmail.com"
             class="
               text-white
               bg-blue-500
