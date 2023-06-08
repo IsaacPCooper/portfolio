@@ -1,17 +1,7 @@
 <template>
   <section id="contact">
     <div
-      class="
-        relative
-        max-w-5xl
-        mx-auto
-        pt-10
-        pb-10
-        sm:pb-42
-        lg: lg:pb-52
-        sm:pt-14
-        lg:pt-22
-      "
+      class="relative max-w-5xl mx-auto pt-10 pb-10 sm:pb-42 lg: lg:pb-52 sm:pt-14 lg:pt-22"
     >
       <h3 class="text-4xl text-center text-white">
         Contact <span class="text-blue-500 font-semibold">me</span>
@@ -23,33 +13,13 @@
       </p>
       <div class="container mx-auto">
         <div
-          class="
-            grid
-            justify-center justify-items-center
-            grid-cols-3
-            gap-4
-            md:flex
-          "
+          class="grid justify-center justify-items-center grid-cols-3 gap-4 md:flex"
         >
           <!--LinkedIn -->
           <a
             href="https://www.linkedin.com/in/isaac-cooper-998845141/"
             target="_blank"
-            class="
-              text-white
-              bg-blue-500
-              hover:bg-blue-800
-              transition-colors
-              rounded
-              duration-200
-              w-16
-              h-16
-              md:w-20 md:h-20
-              flex
-              justify-center
-              items-center
-              flex-none
-            "
+            class="text-white bg-blue-500 hover:bg-blue-800 transition-colors rounded duration-200 w-16 h-16 md:w-20 md:h-20 flex justify-center items-center flex-none thick-shadow"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -67,21 +37,7 @@
           <a
             href=""
             target="_blank"
-            class="
-              text-white
-              bg-blue-500
-              hover:bg-blue-800
-              transition-colors
-              rounded
-              duration-200
-              w-16
-              h-16
-              md:w-20 md:h-20
-              flex
-              justify-center
-              items-center
-              flex-none
-            "
+            class="text-white bg-blue-500 hover:bg-blue-800 transition-colors rounded duration-200 w-16 h-16 md:w-20 md:h-20 flex justify-center items-center flex-none thick-shadow"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -99,21 +55,7 @@
           <a
             href="mailto:jordan.p.c.austin@gmail.com"
             target="_blank"
-            class="
-              text-white
-              bg-blue-500
-              hover:bg-blue-800
-              transition-colors
-              rounded
-              duration-200
-              w-16
-              h-16
-              md:w-20 md:h-20
-              flex
-              justify-center
-              items-center
-              flex-none
-            "
+            class="text-white bg-blue-500 rounded hover:bg-blue-800 transition-colors duration-200 w-16 h-16 md:w-20 md:h-20 flex justify-center items-center flex-none thick-shadow"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
