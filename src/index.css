@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+scrollbar-width: thin;
+}
+
 .thick-shadow{
     box-shadow: 10px 10px black;
     border: 2px solid black

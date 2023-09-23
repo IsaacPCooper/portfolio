@@ -6,7 +6,7 @@
       <h3 class="text-4xl text-center text-white">
         Contact <span class="text-blue-500 font-semibold">me</span>
       </h3>
-      <p class="text-xl text-center mt-4 mb-4 text-slate-400">
+      <p class="text-lg text-center mt-4 mb-4 text-slate-400">
         Interested in working with me?
         <br />
         Feel free to get in touch through any of the methods below.

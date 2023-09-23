@@ -4,12 +4,12 @@ import StackBlock from "./StackBlock.vue";
 <template>
   <section id="myStack">
     <div
-      class="relative max-w-5xl mx-auto pt-10 pb-10 sm:pb-42 lg: lg:pb-52 sm:pt-14 lg:pt-22"
+      class="relative max-w-5xl mx-auto pt-20 pb-40 sm:pb-42 lg:pb-52 lg:pt-52 sm:pt-24"
     >
       <h3 class="text-4xl text-center text-white">
         My <span class="text-blue-500 font-semibold text-shadow">Stack</span>
       </h3>
-      <p class="text-xl text-center mt-4 mb-4 text-slate-400">
+      <p class="text-lg text-center mt-4 mb-4 text-slate-400">
         I have experience using the following technologies
       </p>
 
@@ -17,7 +17,7 @@ import StackBlock from "./StackBlock.vue";
         <div class="grid grid-cols-2 md:grid-cols-4 gap-10">
           <StackBlock techImg="/img/vuelogo.png" techType="Vue.JS" />
 
-          <StackBlock techImg="/img/laravellogo.png" techType="Laravel" />
+          <StackBlock techImg="/img/angularLogo.png" techType="Angular" />
 
           <StackBlock techImg="/img/tailwindlogo.png" techType="Tailwind CSS" />
 
@@ -25,9 +25,9 @@ import StackBlock from "./StackBlock.vue";
 
           <StackBlock techImg="/img/WPlogo.png" techType="WordPress" />
 
-          <StackBlock techImg="/img/firebaselogo.png" techType="Fire Base" />
-
           <StackBlock techImg="/img/JSlogo.png" techType="JavaScript" />
+
+          <StackBlock techImg="/img/TSlogo.png" techType="TypeScript" />
 
           <StackBlock techImg="/img/nodelogo.png" techType="Node.JS" />
         </div>

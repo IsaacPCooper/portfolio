@@ -1,7 +1,7 @@
 <template>
   <section>
     <div
-      class="relative max-w-5xl mx-auto pt-20 pb-40 sm:pb-42 lg: lg:pb-52 sm:pt-24 lg:pt-32 text-white"
+      class="relative max-w-5xl mx-auto pt-20 pb-40 sm:pb-42 lg:pb-52 lg:pt-52 sm:pt-24 text-white"
     >
       <h1 class="text-6xl mb-2 text-center">
         Hi, I'm
