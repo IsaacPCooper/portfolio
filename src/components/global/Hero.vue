@@ -24,7 +24,7 @@
           ideas
         </h2>
         <button
-          class="bg-green-700 hover:bg-blue-500 transition-colors duration-200 p-6 rounded-xl thick-shadow mt-5"
+          class="bg-green-700 hover:bg-blue-500 transition-colors duration-200 p-6 rounded-xl thick-shadow mt-5 md:animate-pulse"
           href=""
         >
           ✨ View My CV ✨
