@@ -7,10 +7,10 @@ scrollbar-width: thin;
 }
 
 .thick-shadow{
-    box-shadow: 10px 10px black;
+    box-shadow: -10px 10px black;
     border: 2px solid black
 }
 
 .text-shadow{
-    text-shadow: 5px 10px black;
+    text-shadow: -5px 10px black;
 }
