@@ -6,10 +6,10 @@ import StackBlock from "./StackBlock.vue";
     <div
       class="relative max-w-5xl mx-auto pt-20 pb-40 sm:pb-42 lg:pb-52 lg:pt-52 sm:pt-24"
     >
-      <h3 class="text-4xl text-center text-white">
+      <h3 class="text-4xl text-white">
         My <span class="text-blue-500 font-semibold text-shadow">Stack</span>
       </h3>
-      <p class="text-lg text-center mt-4 mb-4 text-slate-400">
+      <p class="text-lg mt-4 mb-4 text-slate-400">
         I have experience using the following technologies
       </p>
 

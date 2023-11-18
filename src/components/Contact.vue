@@ -3,18 +3,16 @@
     <div
       class="relative max-w-5xl mx-auto pt-10 pb-10 sm:pb-42 lg: lg:pb-52 sm:pt-14 lg:pt-22"
     >
-      <h3 class="text-4xl text-center text-white">
+      <h3 class="text-4xl text-white">
         Contact <span class="text-blue-500 font-semibold">me</span>
       </h3>
-      <p class="text-lg text-center mt-4 mb-4 text-slate-400">
+      <p class="text-lg mt-4 mb-4 text-slate-400">
         Interested in working with me?
         <br />
         Feel free to get in touch through any of the methods below.
       </p>
       <div class="container mx-auto">
-        <div
-          class="grid justify-center justify-items-center grid-cols-3 gap-4 md:flex"
-        >
+        <div class="grid justify-items-center grid-cols-3 gap-4 md:flex">
           <!--LinkedIn -->
           <a
             href="https://www.linkedin.com/in/isaac-cooper-998845141/"

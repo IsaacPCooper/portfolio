@@ -1,6 +1,6 @@
 <template>
   <header
-    class="px-4 py-4 flex items-center justify-center space-x-12 border-b-2 border-blue-500/10"
+    class="px-4 py-4 items-center justify-center space-x-12 border-b-2 border-blue-500/10 hidden md:flex"
   >
     <nav
       class="flex flex-col align-middle text-white justify-center md:flex-row md:w-full md:justify-evenly md:items-center"
@@ -30,11 +30,12 @@
           >
         </li>
       </ul>
-      <a
+      <button
         class="bg-red-500 p-2 rounded-lg thick-shadow hover:bg-blue-500 transition-colors duration-200"
         href="#contact"
-        >Get In Touch</a
       >
+        Get In Touch
+      </button>
     </nav>
   </header>
 </template>

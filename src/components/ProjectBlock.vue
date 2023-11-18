@@ -32,8 +32,8 @@ export default {
       />
     </div>
     <div class="py-4">
-      <p class="text-center text-2xl">{{ projectName }}</p>
-      <p class="text-center text-lg">{{ projectType }}</p>
+      <p class="pl-12 text-2xl">{{ projectName }}</p>
+      <p class="pl-12 text-lg">{{ projectType }}</p>
     </div>
 
     <div class="grid grid-cols-2 justify-items-center justify-center pb-10">

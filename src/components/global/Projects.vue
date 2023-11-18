@@ -7,10 +7,10 @@ import ProjectBlock from "../ProjectBlock.vue";
     <div
       class="relative max-w-5xl mx-auto pt-20 pb-40 sm:pb-42 lg:pb-52 lg:pt-52 sm:pt-24"
     >
-      <h3 class="text-4xl text-center text-white">
+      <h3 class="text-4xl text-white">
         My <span class="text-blue-500 font-semibold">projects</span>
       </h3>
-      <p class="text-lg text-center mt-4 mb-4 text-slate-400">
+      <p class="text-lg mt-4 mb-4 text-slate-400">
         With the following projects, all technologies used will be included in
         the ReadMe found on github.
       </p>
@@ -37,7 +37,7 @@ import ProjectBlock from "../ProjectBlock.vue";
       <div
         class="bg-white rounded-md thick-shadow border-2 border-blue-500 grid grid-cols-1 justify-center justify-items-center my-8 pt-8 pb-8"
       >
-        <p class="text-center mt-4 mb-4">
+        <p class="text-center text-lg mt-4 mb-4">
           Sometimes I upload smaller projects onto CodePen
         </p>
         <a
