@@ -6,6 +6,10 @@ html {
 scrollbar-width: thin;
 }
 
+.header-art{
+    filter: drop-shadow(-20px 10px black)
+}
+
 .thick-shadow{
     box-shadow: -10px 10px black;
     border: 2px solid black
